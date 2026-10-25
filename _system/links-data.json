@@ -1,6 +1,20 @@
 {
- "ver": 20,
+ "ver": 21,
  "links": [
+  {
+   "lid": "0b167be0f88be6730b",
+   "sig": "4becb3412350cc6694ea8d2262a7bab226c243445342d0306b918f5b0d6b024d",
+   "custName": "学生qq:576597801",
+   "fileId": "Study.Guide.-.Undergraduate.Final.Exam.Questions.and.Reference.Answers.dat",
+   "pkgName": "学习指导-本科生期末考试试题及参考答案",
+   "fileName": "Study.Guide.-.Undergraduate.Final.Exam.Questions.and.Reference.Answers.dat",
+   "githubUrl": "https://github.com/16888kaixin-dot/pdf-data/releases/download/v1.0/Study.Guide.-.Undergraduate.Final.Exam.Questions.and.Reference.Answers.dat",
+   "cosUrl": "",
+   "exp": 1800729327,
+   "revoked": false,
+   "devices": {},
+   "createdAt": 1792953327223
+  },
   {
    "lid": "74d42d18572a08f070",
    "sig": "d9c12da6ffac2f62d0eb8c79d2ef3773240753155b65c21e3cbebe80fcf3be88",
