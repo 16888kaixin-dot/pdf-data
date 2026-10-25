@@ -1,6 +1,20 @@
 {
- "ver": 1,
+ "ver": 2,
  "links": [
+  {
+   "lid": "test1a1732c2ea4",
+   "sig": "test-sig",
+   "custName": "【测试-勿发】",
+   "fileId": "test.dat",
+   "pkgName": "测试包",
+   "fileName": "test.dat",
+   "githubUrl": "",
+   "cosUrl": "",
+   "exp": 0,
+   "revoked": false,
+   "devices": {},
+   "createdAt": 1792933637797
+  },
   {
    "lid": "2aa04f7188e2119340",
    "sig": "88408edb3db8bccd84132c8ba3c19e5f6bc8e0b7c999ad0bb4d92eb59b6e8d1c",
