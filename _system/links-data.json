@@ -1,5 +1,5 @@
 {
- "ver": 3,
+ "ver": 4,
  "links": [
   {
    "lid": "2aa04f7188e2119340",
@@ -12,7 +12,16 @@
    "cosUrl": "",
    "exp": 1798115064,
    "revoked": false,
-   "devices": {},
+   "devices": {
+    "6CD6F977": {
+     "machineCode": "6CD6F977",
+     "activationKey": "KEY-3D99C31E",
+     "createdAt": 1792944197782,
+     "lastSeen": 1792944197782,
+     "exp": 1798115064,
+     "revoked": false
+    }
+   },
    "createdAt": 1792931064546,
    "activeUrl": "https://pdf-protect-kx.netlify.app/reader?cust=%E5%AD%A6%E7%94%9Fqq%3A576597801+%E6%9C%9F%E6%9C%AB%E7%AD%94%E6%A1%88&file=Study.Guide.-.Undergraduate.Final.Exam.Questions.and.Reference.Answers.dat&pkg=%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%AF%BC-%E6%9C%AC%E7%A7%91%E7%94%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88&lid=aca4607753768db301&exp=1798115064.96&sig=9c9dc260a101452b9b91a02b70c75b465b4a26b96a44c1229e31f2246a9a41a3"
   },
