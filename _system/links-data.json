@@ -1,5 +1,5 @@
 {
- "ver": 13,
+ "ver": 14,
  "links": [
   {
    "lid": "74d42d18572a08f070",
@@ -11,7 +11,7 @@
    "githubUrl": "https://github.com/16888kaixin-dot/pdf-data/releases/download/v1.0/_Kira1.dat",
    "cosUrl": "",
    "exp": 1795542600,
-   "revoked": false,
+   "revoked": true,
    "devices": {},
    "createdAt": 1792950600730
   },
