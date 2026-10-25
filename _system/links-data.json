@@ -1,6 +1,20 @@
 {
- "ver": 7,
+ "ver": 8,
  "links": [
+  {
+   "lid": "74d42d18572a08f070",
+   "sig": "d9c12da6ffac2f62d0eb8c79d2ef3773240753155b65c21e3cbebe80fcf3be88",
+   "custName": "333333",
+   "fileId": "_Kira1.dat",
+   "pkgName": "33333",
+   "fileName": "_Kira1.dat",
+   "githubUrl": "https://github.com/16888kaixin-dot/pdf-data/releases/download/v1.0/_Kira1.dat",
+   "cosUrl": "",
+   "exp": 1795542600,
+   "revoked": false,
+   "devices": {},
+   "createdAt": 1792950600730
+  },
   {
    "lid": "2aa04f7188e2119340",
    "sig": "9c9dc260a101452b9b91a02b70c75b465b4a26b96a44c1229e31f2246a9a41a3",
