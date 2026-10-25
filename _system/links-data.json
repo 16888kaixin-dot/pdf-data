@@ -1,6 +1,20 @@
 {
- "ver": 21,
+ "ver": 22,
  "links": [
+  {
+   "lid": "4a753d24018960a8e6",
+   "sig": "2d2addc1551bdb1b92995281c34a8b8b8ecb60f38c9fa6c96f5b415148d63d56",
+   "custName": "学生qq:576597801",
+   "fileId": "Study.Guide.-.Six-Panel.Answer.dat",
+   "pkgName": "学习指导-六板答案",
+   "fileName": "Study.Guide.-.Six-Panel.Answer.dat",
+   "githubUrl": "https://github.com/16888kaixin-dot/pdf-data/releases/download/v1.0/Study.Guide.-.Six-Panel.Answer.dat",
+   "cosUrl": "",
+   "exp": 1800729409,
+   "revoked": false,
+   "devices": {},
+   "createdAt": 1792953409393
+  },
   {
    "lid": "0b167be0f88be6730b",
    "sig": "4becb3412350cc6694ea8d2262a7bab226c243445342d0306b918f5b0d6b024d",
