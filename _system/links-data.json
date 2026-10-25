@@ -157,14 +157,14 @@
   },
   {
    "lid": "76d5059c29a2058d11",
-   "sig": "659333a893f7f40912041f06f171998154c729f9523ddf0ff18a7c905d2a8f6d",
+   "sig": "9f50281fc71e1d8bb1b388ff00df123d2f6f538cb68ad252ea7a69ad3b46cfbf",
    "custName": "李白",
    "fileId": "_.dat",
    "pkgName": "测试",
    "fileName": "_.dat",
    "githubUrl": "https://github.com/16888kaixin-dot/pdf-data/releases/download/v1.0/_.dat",
    "cosUrl": "",
-   "exp": 1794546807,
+   "exp": 1797225585,
    "revoked": false,
    "devices": {
     "073E2485": {
@@ -177,22 +177,22 @@
     }
    },
    "createdAt": 1791955144858,
-   "activeUrl": "https://pdf-protect-kx.netlify.app/reader?cust=%E6%9D%8E%E7%99%BD&file=_.dat&pkg=%E6%B5%8B%E8%AF%95&lid=eb5cdd0e203fa159cc&exp=1794546807.0304&sig=659333a893f7f40912041f06f171998154c729f9523ddf0ff18a7c905d2a8f6d"
+   "activeUrl": "https://pdf-protect-kx.netlify.app/reader?cust=%E6%9D%8E%E7%99%BD&file=_.dat&pkg=%E6%B5%8B%E8%AF%95&lid=3656450cf36baa2a5d&exp=1797225585.0288&sig=9f50281fc71e1d8bb1b388ff00df123d2f6f538cb68ad252ea7a69ad3b46cfbf"
   },
   {
    "lid": "26f6d8c3293cb4a358",
-   "sig": "659333a893f7f40912041f06f171998154c729f9523ddf0ff18a7c905d2a8f6d",
+   "sig": "9f50281fc71e1d8bb1b388ff00df123d2f6f538cb68ad252ea7a69ad3b46cfbf",
    "custName": "李白",
    "fileId": "_.dat",
    "pkgName": "测试",
    "fileName": "_.dat",
    "githubUrl": "https://github.com/16888kaixin-dot/pdf-data/releases/download/v1.0/_.dat",
    "cosUrl": "",
-   "exp": 1794546807,
+   "exp": 1797225585,
    "revoked": true,
    "devices": {},
    "createdAt": 1791954760559,
-   "activeUrl": "https://pdf-protect-kx.netlify.app/reader?cust=%E6%9D%8E%E7%99%BD&file=_.dat&pkg=%E6%B5%8B%E8%AF%95&lid=eb5cdd0e203fa159cc&exp=1794546807.0304&sig=659333a893f7f40912041f06f171998154c729f9523ddf0ff18a7c905d2a8f6d"
+   "activeUrl": "https://pdf-protect-kx.netlify.app/reader?cust=%E6%9D%8E%E7%99%BD&file=_.dat&pkg=%E6%B5%8B%E8%AF%95&lid=3656450cf36baa2a5d&exp=1797225585.0288&sig=9f50281fc71e1d8bb1b388ff00df123d2f6f538cb68ad252ea7a69ad3b46cfbf"
   }
  ],
  "devices": {}
