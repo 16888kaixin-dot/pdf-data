@@ -1,5 +1,5 @@
 {
- "ver": 22,
+ "ver": 23,
  "links": [
   {
    "lid": "4a753d24018960a8e6",
@@ -12,7 +12,16 @@
    "cosUrl": "",
    "exp": 1800729409,
    "revoked": false,
-   "devices": {},
+   "devices": {
+    "6CD6F977": {
+     "machineCode": "6CD6F977",
+     "activationKey": "KEY-3D99C31E",
+     "createdAt": 1792953488509,
+     "lastSeen": 1792953488509,
+     "exp": 1795545487,
+     "revoked": false
+    }
+   },
    "createdAt": 1792953409393
   },
   {
