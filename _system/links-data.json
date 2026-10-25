@@ -1,5 +1,5 @@
 {
- "ver": 6,
+ "ver": 7,
  "links": [
   {
    "lid": "2aa04f7188e2119340",
@@ -42,7 +42,7 @@
      "createdAt": 1792930546980,
      "lastSeen": 1792932696045,
      "exp": 1795522545,
-     "revoked": true
+     "revoked": false
     }
    },
    "createdAt": 1792930407104,
