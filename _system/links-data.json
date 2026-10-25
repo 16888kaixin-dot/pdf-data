@@ -1,0 +1,189 @@
+{
+ "ver": 1,
+ "links": [
+  {
+   "lid": "2aa04f7188e2119340",
+   "sig": "88408edb3db8bccd84132c8ba3c19e5f6bc8e0b7c999ad0bb4d92eb59b6e8d1c",
+   "custName": "学生qq:576597801 期末答案",
+   "fileId": "Study.Guide.-.Undergraduate.Final.Exam.Questions.and.Reference.Answers.dat",
+   "pkgName": "学习指导-本科生期末考试试题及参考答案",
+   "fileName": "Study.Guide.-.Undergraduate.Final.Exam.Questions.and.Reference.Answers.dat",
+   "githubUrl": "https://github.com/16888kaixin-dot/pdf-data/releases/download/v1.0/Study.Guide.-.Undergraduate.Final.Exam.Questions.and.Reference.Answers.dat",
+   "cosUrl": "",
+   "exp": 1798115064,
+   "revoked": false,
+   "devices": {},
+   "createdAt": 1792931064546
+  },
+  {
+   "lid": "50fb78e9d5b8878d05",
+   "sig": "85f0fa82a3e1bec552580079acbfeeeff7b99d6d0872549d8e5934f5c3a6fada",
+   "custName": "学生qq:576597801",
+   "fileId": "Study.Guide.-.Six-Panel.Answer.dat",
+   "pkgName": "学习指导-六板答案",
+   "fileName": "Study.Guide.-.Six-Panel.Answer.dat",
+   "githubUrl": "https://github.com/16888kaixin-dot/pdf-data/releases/download/v1.0/Study.Guide.-.Six-Panel.Answer.dat",
+   "cosUrl": "",
+   "exp": 1800706407,
+   "revoked": false,
+   "devices": {
+    "53182775": {
+     "machineCode": "53182775",
+     "activationKey": "KEY-6589A1C8",
+     "createdAt": 1792930803664,
+     "lastSeen": 1792932736960,
+     "exp": 1795522802,
+     "revoked": false
+    },
+    "6CD6F977": {
+     "machineCode": "6CD6F977",
+     "activationKey": "KEY-3D99C31E",
+     "createdAt": 1792930546980,
+     "lastSeen": 1792932696045,
+     "exp": 1795522545,
+     "revoked": false
+    }
+   },
+   "createdAt": 1792930407104
+  },
+  {
+   "lid": "931bb1db01d751d97a",
+   "sig": "44c442cd76d379a498b4cebaa5d6d77e5d5a1128ea60bfdd9c35f30d8894e8b7",
+   "custName": "张三",
+   "fileId": "_.dat",
+   "pkgName": "_",
+   "fileName": "_.dat",
+   "githubUrl": "https://github.com/16888kaixin-dot/pdf-data/releases/download/v1.0/_.dat",
+   "cosUrl": "",
+   "exp": 1794628453,
+   "revoked": false,
+   "devices": {
+    "69BD5AC7": {
+     "machineCode": "69BD5AC7",
+     "activationKey": "KEY-0347F455",
+     "createdAt": 1791967231763,
+     "lastSeen": 1792083898997,
+     "exp": 1792122872,
+     "revoked": false
+    },
+    "3A8AC825": {
+     "machineCode": "3A8AC825",
+     "activationKey": "KEY-41BA1E5F",
+     "createdAt": 1791967310053,
+     "lastSeen": 1791976737334,
+     "exp": 1792063126,
+     "revoked": false
+    }
+   },
+   "createdAt": 1791967202835
+  },
+  {
+   "lid": "9da3bec05adcf8d113",
+   "sig": "b728f7c964472b36cca3af39bf1ba2a50070898fdffc9dbb4d258635be2c09e4",
+   "custName": "凯皇",
+   "fileId": "_.dat",
+   "pkgName": "_",
+   "fileName": "_.dat",
+   "githubUrl": "https://github.com/16888kaixin-dot/pdf-data/releases/download/v1.0/_.dat",
+   "cosUrl": "",
+   "exp": 1791959389.9616,
+   "revoked": false,
+   "devices": {},
+   "createdAt": 1791958790403
+  },
+  {
+   "lid": "ae8a4af40d4edaa3fb",
+   "sig": "19bb43b5227f398a0ebb554994c7e79ad3577224d461ff5a8b38be8ea02e0c57",
+   "custName": "典韦",
+   "fileId": "_.dat",
+   "pkgName": "测试",
+   "fileName": "_.dat",
+   "githubUrl": "https://github.com/16888kaixin-dot/pdf-data/releases/download/v1.0/_.dat",
+   "cosUrl": "",
+   "exp": 1791958963,
+   "revoked": true,
+   "devices": {},
+   "createdAt": 1791958462362
+  },
+  {
+   "lid": "b5824a6c01acab5e84",
+   "sig": "7056b02d3601abeecd8dd1bcd3f3caaaf822547e14f43446565b25c7c246ae76",
+   "custName": "杨玉环",
+   "fileId": "_.dat",
+   "pkgName": "测试 5",
+   "fileName": "_.dat",
+   "githubUrl": "https://github.com/16888kaixin-dot/pdf-data/releases/download/v1.0/_.dat",
+   "cosUrl": "",
+   "exp": 1791958467,
+   "revoked": false,
+   "devices": {},
+   "createdAt": 1791955406285
+  },
+  {
+   "lid": "aff320d04b785cc79d",
+   "sig": "5e16d99a0a7876efc9f327d2c3621356609dbb5ea0b9be7c0c5079aeccf817e5",
+   "custName": "王维",
+   "fileId": "_.dat",
+   "pkgName": "测试 3",
+   "fileName": "_.dat",
+   "githubUrl": "https://github.com/16888kaixin-dot/pdf-data/releases/download/v1.0/_.dat",
+   "cosUrl": "",
+   "exp": 1791955482.0096,
+   "revoked": false,
+   "devices": {},
+   "createdAt": 1791955362353
+  },
+  {
+   "lid": "297a60ea93aebf950d",
+   "sig": "e7d6c4a3542c76aa27c972b96077110bb80e334e8a11a94484a42154a9a3e478",
+   "custName": "伽罗",
+   "fileId": "_.dat",
+   "pkgName": "测试",
+   "fileName": "_.dat",
+   "githubUrl": "https://github.com/16888kaixin-dot/pdf-data/releases/download/v1.0/_.dat",
+   "cosUrl": "",
+   "exp": 1791955514,
+   "revoked": false,
+   "devices": {},
+   "createdAt": 1791955299132
+  },
+  {
+   "lid": "76d5059c29a2058d11",
+   "sig": "25439155d3967885c4008e4a198106681792ce88422842b4451727807cf416cf",
+   "custName": "李白",
+   "fileId": "_.dat",
+   "pkgName": "测试",
+   "fileName": "_.dat",
+   "githubUrl": "https://github.com/16888kaixin-dot/pdf-data/releases/download/v1.0/_.dat",
+   "cosUrl": "",
+   "exp": 1797225545,
+   "revoked": false,
+   "devices": {
+    "073E2485": {
+     "machineCode": "073E2485",
+     "activationKey": "KEY-13EEED78",
+     "createdAt": 1791955198033,
+     "lastSeen": 1791955515725,
+     "exp": null,
+     "revoked": false
+    }
+   },
+   "createdAt": 1791955144858
+  },
+  {
+   "lid": "26f6d8c3293cb4a358",
+   "sig": "a10b7ae0cd6ab0aba345a3221794238fd1069f0edc8ae2d0c44f4a1bf9d02016",
+   "custName": "李白",
+   "fileId": "_.dat",
+   "pkgName": "测试",
+   "fileName": "_.dat",
+   "githubUrl": "https://github.com/16888kaixin-dot/pdf-data/releases/download/v1.0/_.dat",
+   "cosUrl": "",
+   "exp": 1794546760,
+   "revoked": true,
+   "devices": {},
+   "createdAt": 1791954760559
+  }
+ ],
+ "devices": {}
+}
