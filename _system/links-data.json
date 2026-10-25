@@ -25,36 +25,19 @@
    "createdAt": 1792950600730
   },
   {
-   "lid": "50fb78e9d5b8878d05",
-   "sig": "40b5e0b4e1de0f541d49a0b6ead0362384f825831921be6fa1fa73c6c53bf96a",
-   "custName": "学生qq:576597801",
-   "fileId": "Study.Guide.-.Six-Panel.Answer.dat",
-   "pkgName": "学习指导-六板答案",
-   "fileName": "Study.Guide.-.Six-Panel.Answer.dat",
-   "githubUrl": "https://github.com/16888kaixin-dot/pdf-data/releases/download/v1.0/Study.Guide.-.Six-Panel.Answer.dat",
+   "lid": "2aa04f7188e2119340",
+   "sig": "9c9dc260a101452b9b91a02b70c75b465b4a26b96a44c1229e31f2246a9a41a3",
+   "custName": "学生qq:576597801 期末答案",
+   "fileId": "Study.Guide.-.Undergraduate.Final.Exam.Questions.and.Reference.Answers.dat",
+   "pkgName": "学习指导-本科生期末考试试题及参考答案",
+   "fileName": "Study.Guide.-.Undergraduate.Final.Exam.Questions.and.Reference.Answers.dat",
+   "githubUrl": "https://github.com/16888kaixin-dot/pdf-data/releases/download/v1.0/Study.Guide.-.Undergraduate.Final.Exam.Questions.and.Reference.Answers.dat",
    "cosUrl": "",
-   "exp": 1800706412,
+   "exp": 1798115064,
    "revoked": false,
-   "devices": {
-    "53182775": {
-     "machineCode": "53182775",
-     "activationKey": "KEY-6589A1C8",
-     "createdAt": 1792930803664,
-     "lastSeen": 1792945636127,
-     "exp": 1795522802,
-     "revoked": false
-    },
-    "6CD6F977": {
-     "machineCode": "6CD6F977",
-     "activationKey": "KEY-3D99C31E",
-     "createdAt": 1792930546980,
-     "lastSeen": 1792932696045,
-     "exp": 1795522545,
-     "revoked": false
-    }
-   },
-   "createdAt": 1792930407104,
-   "activeUrl": "https://pdf-protect-kx.netlify.app/reader?cust=%E5%AD%A6%E7%94%9Fqq%3A576597801&file=Study.Guide.-.Six-Panel.Answer.dat&pkg=%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%AF%BC-%E5%85%AD%E6%9D%BF%E7%AD%94%E6%A1%88&lid=8dc3af5dd7645915f3&exp=1800706412.9744&sig=40b5e0b4e1de0f541d49a0b6ead0362384f825831921be6fa1fa73c6c53bf96a"
+   "devices": {},
+   "createdAt": 1792931064546,
+   "activeUrl": "https://pdf-protect-kx.netlify.app/reader?cust=%E5%AD%A6%E7%94%9Fqq%3A576597801+%E6%9C%9F%E6%9C%AB%E7%AD%94%E6%A1%88&file=Study.Guide.-.Undergraduate.Final.Exam.Questions.and.Reference.Answers.dat&pkg=%E5%AD%A6%E4%B9%A0%E6%8C%87%E5%AF%BC-%E6%9C%AC%E7%A7%91%E7%94%9F%E6%9C%9F%E6%9C%AB%E8%80%83%E8%AF%95%E8%AF%95%E9%A2%98%E5%8F%8A%E5%8F%82%E8%80%83%E7%AD%94%E6%A1%88&lid=aca4607753768db301&exp=1798115064.96&sig=9c9dc260a101452b9b91a02b70c75b465b4a26b96a44c1229e31f2246a9a41a3"
   },
   {
    "lid": "931bb1db01d751d97a",
