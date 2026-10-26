@@ -170,21 +170,6 @@
    "activeUrl": "https://pdf-protect-kx.netlify.app/reader?cust=%E4%BC%BD%E7%BD%97&file=_.dat&pkg=%E6%B5%8B%E8%AF%95&lid=480d6aa5fd1fa6eb5e&exp=0&sig=4567d4853d328cfcf97eb0d6146c48f6f30bd6df22aa211a7b6b8778e8b161cb"
   },
   {
-   "lid": "76d5059c29a2058d11",
-   "sig": "9f50281fc71e1d8bb1b388ff00df123d2f6f538cb68ad252ea7a69ad3b46cfbf",
-   "custName": "李白",
-   "fileId": "_.dat",
-   "pkgName": "测试",
-   "fileName": "_.dat",
-   "githubUrl": "https://github.com/16888kaixin-dot/pdf-data/releases/download/v1.0/_.dat",
-   "cosUrl": "",
-   "exp": 1797225585,
-   "revoked": false,
-   "devices": {},
-   "createdAt": 1791955144858,
-   "activeUrl": "https://pdf-protect-kx.netlify.app/reader?cust=%E6%9D%8E%E7%99%BD&file=_.dat&pkg=%E6%B5%8B%E8%AF%95&lid=3656450cf36baa2a5d&exp=1797225585.0288&sig=9f50281fc71e1d8bb1b388ff00df123d2f6f538cb68ad252ea7a69ad3b46cfbf"
-  },
-  {
    "lid": "26f6d8c3293cb4a358",
    "sig": "9f50281fc71e1d8bb1b388ff00df123d2f6f538cb68ad252ea7a69ad3b46cfbf",
    "custName": "李白",
