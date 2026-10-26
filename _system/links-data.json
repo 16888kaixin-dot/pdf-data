@@ -95,19 +95,19 @@
    "activeUrl": "https://pdf-protect-kx.netlify.app/reader?cust=%E5%BC%A0%E4%B8%89&file=_.dat&pkg=_&lid=4334abcb52bbac8390&exp=1794628464.9584&sig=2bdb80b5221b8a87a576a62a578a0be9e9ae50243cdb153ecc6619e8e820a064"
   },
   {
-   "lid": "9da3bec05adcf8d113",
-   "sig": "c09a4d7c8b1ec701f701b2f659a7e0b374bef8e8c234a8569d45ae4c73e6decf",
-   "custName": "凯皇",
+   "lid": "ae8a4af40d4edaa3fb",
+   "sig": "e0908e559a7865c6f5fc597cfe385c1239774699f54abeef0e115de5f5875523",
+   "custName": "典韦",
    "fileId": "_.dat",
-   "pkgName": "_",
+   "pkgName": "测试",
    "fileName": "_.dat",
    "githubUrl": "https://github.com/16888kaixin-dot/pdf-data/releases/download/v1.0/_.dat",
    "cosUrl": "",
    "exp": 0,
-   "revoked": false,
+   "revoked": true,
    "devices": {},
-   "createdAt": 1791958790403,
-   "activeUrl": "https://pdf-protect-kx.netlify.app/reader?cust=%E5%87%AF%E7%9A%87&file=_.dat&pkg=_&lid=302f2adf00ae2656c3&exp=0&sig=c09a4d7c8b1ec701f701b2f659a7e0b374bef8e8c234a8569d45ae4c73e6decf"
+   "createdAt": 1791958462362,
+   "activeUrl": "https://pdf-protect-kx.netlify.app/reader?cust=%E5%85%B8%E9%9F%A6&file=_.dat&pkg=%E6%B5%8B%E8%AF%95&lid=5b22ab9e7a49405279&exp=0&sig=e0908e559a7865c6f5fc597cfe385c1239774699f54abeef0e115de5f5875523"
   },
   {
    "lid": "b5824a6c01acab5e84",
