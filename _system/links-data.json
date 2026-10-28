@@ -1,6 +1,20 @@
 {
- "ver": 29,
+ "ver": 30,
  "links": [
+  {
+   "lid": "ad87658201a51c6585",
+   "sig": "ab4cf8763e0be76de7082a2bff31646372511792e0b37ad94681466fde8cecf8",
+   "custName": "张三dd",
+   "fileId": "Study.Guide.-.Undergraduate.Final.Exam.Questions.and.Reference.Answers.dat",
+   "pkgName": "add",
+   "fileName": "Study.Guide.-.Undergraduate.Final.Exam.Questions.and.Reference.Answers.dat",
+   "githubUrl": "https://github.com/16888kaixin-dot/pdf-data/releases/download/v1.0/Study.Guide.-.Undergraduate.Final.Exam.Questions.and.Reference.Answers.dat",
+   "cosUrl": "",
+   "exp": 1800943662,
+   "revoked": false,
+   "devices": {},
+   "createdAt": 1793167662225
+  },
   {
    "lid": "4a753d24018960a8e6",
    "sig": "2d2addc1551bdb1b92995281c34a8b8b8ecb60f38c9fa6c96f5b415148d63d56",
