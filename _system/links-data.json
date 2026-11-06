@@ -1,5 +1,5 @@
 {
- "ver": 55,
+ "ver": 56,
  "links": [
   {
    "lid": "0e90895cfbd945f365",
@@ -41,7 +41,16 @@
      "revoked": false
     }
    },
-   "createdAt": 1793935309839
+   "createdAt": 1793935309839,
+   "allowedPkgs": [
+    "学习指导-本科生期末考试试题及参考答案"
+   ],
+   "allowedHashes": [
+    {
+     "name": "学习指导-本科生期末考试试题及参考答案",
+     "hash": "3091432453d6280e2ede95f9cd67cf2decc965e7038e20fd569605b884bb0cb7"
+    }
+   ]
   },
   {
    "lid": "4a753d24018960a8e6",
