@@ -1,5 +1,5 @@
 {
- "ver": 72,
+ "ver": 73,
  "links": [
   {
    "lid": "9048232ad7ae265587",
@@ -15,7 +15,7 @@
    "localFileSize": 617453,
    "pkgHash": "0639f9590a16799f6e31c2208e7d74a1706ca8c2ced3e36fb314fb341da73fb0",
    "exp": 1796540735,
-   "revoked": false,
+   "revoked": true,
    "devices": {
     "C61517796D42E38ED78AE18F03BAFD22": {
      "machineCode": "C61517796D42E38ED78AE18F03BAFD22",
