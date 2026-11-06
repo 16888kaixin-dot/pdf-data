@@ -2,33 +2,6 @@
  "ver": 73,
  "links": [
   {
-   "lid": "9048232ad7ae265587",
-   "sig": "2326bfc56393a85d1fc4bdbad12d395d93eb3e86a4c6854701d427ec58f62c7f",
-   "custName": "测试 3",
-   "fileId": "[加密数据包]_新疆大学2020年数据结构试题-预览.dat",
-   "pkgName": "新疆大学2020年数据结构试题-预览",
-   "fileName": "[加密数据包]_新疆大学2020年数据结构试题-预览.dat",
-   "githubUrl": "",
-   "cosUrl": "",
-   "localSource": true,
-   "localFileName": "[加密数据包]_新疆大学2020年数据结构试题-预览.dat",
-   "localFileSize": 617453,
-   "pkgHash": "0639f9590a16799f6e31c2208e7d74a1706ca8c2ced3e36fb314fb341da73fb0",
-   "exp": 1796540735,
-   "revoked": true,
-   "devices": {
-    "C61517796D42E38ED78AE18F03BAFD22": {
-     "machineCode": "C61517796D42E38ED78AE18F03BAFD22",
-     "activationKey": "KEY-7334F790ACF0",
-     "createdAt": 1793948812720,
-     "lastSeen": 1793948812720,
-     "exp": 1796540809,
-     "revoked": true
-    }
-   },
-   "createdAt": 1793948735830
-  },
-  {
    "lid": "d197fa236d6e66236e",
    "sig": "821112442063c502faeec884063422b4979e288419a9fb643ecc23faa32e8281",
    "custName": "微信号：A18299264596",
