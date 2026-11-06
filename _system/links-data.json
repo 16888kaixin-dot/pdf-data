@@ -1,5 +1,5 @@
 {
- "ver": 62,
+ "ver": 63,
  "links": [
   {
    "lid": "d197fa236d6e66236e",
@@ -26,7 +26,16 @@
      "revoked": false
     }
    },
-   "createdAt": 1793941991021
+   "createdAt": 1793941991021,
+   "allowedPkgs": [
+    "新疆大学2020年数据结构试题"
+   ],
+   "allowedHashes": [
+    {
+     "name": "新疆大学2020年数据结构试题",
+     "hash": "fc75814ef611a23cf03ddc2c88e49134bd968c346032093ceda4baae67a3e377"
+    }
+   ]
   },
   {
    "lid": "719e56519cfd73da34",
