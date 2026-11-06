@@ -1,5 +1,5 @@
 {
- "ver": 70,
+ "ver": 71,
  "links": [
   {
    "lid": "9048232ad7ae265587",
@@ -16,7 +16,16 @@
    "pkgHash": "0639f9590a16799f6e31c2208e7d74a1706ca8c2ced3e36fb314fb341da73fb0",
    "exp": 1796540735,
    "revoked": false,
-   "devices": {},
+   "devices": {
+    "C61517796D42E38ED78AE18F03BAFD22": {
+     "machineCode": "C61517796D42E38ED78AE18F03BAFD22",
+     "activationKey": "KEY-7334F790ACF0",
+     "createdAt": 1793948812720,
+     "lastSeen": 1793948812720,
+     "exp": 1796540809,
+     "revoked": false
+    }
+   },
    "createdAt": 1793948735830
   },
   {
