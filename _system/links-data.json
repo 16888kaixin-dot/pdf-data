@@ -1,6 +1,23 @@
 {
- "ver": 43,
+ "ver": 44,
  "links": [
+  {
+   "lid": "0e90895cfbd945f365",
+   "sig": "667609f7e416cab4874db0eeded7cca5bcd30799c94dea6f2fbf9e7545cbad63",
+   "custName": "测试 1",
+   "fileId": "[加密数据包]_新疆大学2020年数据结构试题-预览.dat",
+   "pkgName": "新疆大学2020年数据结构试题-预览",
+   "fileName": "[加密数据包]_新疆大学2020年数据结构试题-预览.dat",
+   "githubUrl": "",
+   "cosUrl": "",
+   "localSource": true,
+   "localFileName": "[加密数据包]_新疆大学2020年数据结构试题-预览.dat",
+   "localFileSize": 617453,
+   "exp": 1796527309,
+   "revoked": false,
+   "devices": {},
+   "createdAt": 1793935309839
+  },
   {
    "lid": "37103d34c5b93e6b46",
    "sig": "96f3bf9c5d7ea2784a7b3a411c4637298902c6ca4e7de5378298c2351c76861b",
