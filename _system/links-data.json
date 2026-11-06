@@ -1,5 +1,5 @@
 {
- "ver": 41,
+ "ver": 42,
  "links": [
   {
    "lid": "37103d34c5b93e6b46",
@@ -37,7 +37,7 @@
    "githubUrl": "https://github.com/16888kaixin-dot/pdf-data/releases/download/v1.0/Study.Guide.-.Undergraduate.Final.Exam.Questions.and.Reference.Answers.dat",
    "cosUrl": "",
    "exp": 1800943662,
-   "revoked": false,
+   "revoked": true,
    "devices": {
     "043AC49C7541E41DC2934213926F5497": {
      "machineCode": "043AC49C7541E41DC2934213926F5497",
