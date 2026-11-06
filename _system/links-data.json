@@ -20,9 +20,9 @@
      "machineCode": "FA37BF9FFDEF11B6680A8C4AE7AC9A02",
      "activationKey": "KEY-EA2EFCD6D0E6",
      "createdAt": 1793931405023,
-     "lastSeen": 1793931542657,
+     "lastSeen": 1793931481062,
      "exp": 1796523403,
-     "revoked": true
+     "revoked": false
     }
    },
    "createdAt": 1793931312506
