@@ -20,7 +20,7 @@
      "machineCode": "AED93D32694022C4121AF1ACC485D84F",
      "activationKey": "KEY-AC4B1D85CB51",
      "createdAt": 1793935438144,
-     "lastSeen": 1793935499484,
+     "lastSeen": 1793935468134,
      "exp": 1796527437,
      "revoked": false
     }
@@ -40,7 +40,7 @@
    "localFileName": "[加密数据包]_新疆大学2020年数据结构试题-预览.dat",
    "localFileSize": 617453,
    "exp": 1796523722,
-   "revoked": false,
+   "revoked": true,
    "devices": {
     "FA37BF9FFDEF11B6680A8C4AE7AC9A02": {
      "machineCode": "FA37BF9FFDEF11B6680A8C4AE7AC9A02",
