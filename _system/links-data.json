@@ -1,5 +1,5 @@
 {
- "ver": 71,
+ "ver": 72,
  "links": [
   {
    "lid": "9048232ad7ae265587",
@@ -21,7 +21,7 @@
      "machineCode": "C61517796D42E38ED78AE18F03BAFD22",
      "activationKey": "KEY-7334F790ACF0",
      "createdAt": 1793948812720,
-     "lastSeen": 1793948812720,
+     "lastSeen": 1793948838877,
      "exp": 1796540809,
      "revoked": false
     }
