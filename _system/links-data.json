@@ -1,5 +1,5 @@
 {
- "ver": 42,
+ "ver": 43,
  "links": [
   {
    "lid": "37103d34c5b93e6b46",
@@ -26,29 +26,6 @@
     }
    },
    "createdAt": 1793931312506
-  },
-  {
-   "lid": "ad87658201a51c6585",
-   "sig": "ab4cf8763e0be76de7082a2bff31646372511792e0b37ad94681466fde8cecf8",
-   "custName": "张三dd",
-   "fileId": "Study.Guide.-.Undergraduate.Final.Exam.Questions.and.Reference.Answers.dat",
-   "pkgName": "add",
-   "fileName": "Study.Guide.-.Undergraduate.Final.Exam.Questions.and.Reference.Answers.dat",
-   "githubUrl": "https://github.com/16888kaixin-dot/pdf-data/releases/download/v1.0/Study.Guide.-.Undergraduate.Final.Exam.Questions.and.Reference.Answers.dat",
-   "cosUrl": "",
-   "exp": 1800943662,
-   "revoked": true,
-   "devices": {
-    "043AC49C7541E41DC2934213926F5497": {
-     "machineCode": "043AC49C7541E41DC2934213926F5497",
-     "activationKey": "KEY-DA3FCB374CB3",
-     "createdAt": 1793933143820,
-     "lastSeen": 1793933179150,
-     "exp": 1796525142,
-     "revoked": false
-    }
-   },
-   "createdAt": 1793167662225
   },
   {
    "lid": "4a753d24018960a8e6",
