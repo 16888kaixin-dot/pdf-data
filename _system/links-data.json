@@ -1,5 +1,5 @@
 {
- "ver": 44,
+ "ver": 45,
  "links": [
   {
    "lid": "0e90895cfbd945f365",
@@ -15,7 +15,16 @@
    "localFileSize": 617453,
    "exp": 1796527309,
    "revoked": false,
-   "devices": {},
+   "devices": {
+    "AED93D32694022C4121AF1ACC485D84F": {
+     "machineCode": "AED93D32694022C4121AF1ACC485D84F",
+     "activationKey": "KEY-AC4B1D85CB51",
+     "createdAt": 1793935438144,
+     "lastSeen": 1793935438144,
+     "exp": 1796527437,
+     "revoked": false
+    }
+   },
    "createdAt": 1793935309839
   },
   {
